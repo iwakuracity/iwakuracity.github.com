@@ -1,6 +1,6 @@
-# 俺のゼニはどこ行った for 横浜
+# 俺のゼニはどこ行った for 岩倉
 
-wheredoesmymoney.orgの横浜バージョンです．
+wheredoesmymoney.orgの岩倉バージョンです．
 
 http://spending.jp/ で稼働しているサイトのソースコードです。
 
