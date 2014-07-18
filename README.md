@@ -1,4 +1,4 @@
-# 俺のゼニはどこ行った for 岩倉
+# 私の税金はどこ行った for 岩倉
 
 wheredoesmymoney.orgの岩倉バージョンです．
 
