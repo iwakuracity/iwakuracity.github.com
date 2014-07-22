@@ -20,7 +20,7 @@ OpenSpending.Styles.Cofog = {
   /* yokohama cofog */
   '1': { icon: 'icons/unemployment.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-1': { icon: 'icons/unemployment.svg', color: '#C75746', bcolor: '#935B3B' },
-  '2': { icon: 'icons/secondary-lower.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-2': { icon: 'icons/secondary-upper.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-3': { icon: 'icons/social-systems.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-4': { icon: 'icons/secondary-lower.svg', color: '#C75746', bcolor: '#0AB971' },
