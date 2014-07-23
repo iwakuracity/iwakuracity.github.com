@@ -19,7 +19,7 @@ OpenSpending.Styles.Cofog = {
 
   /* yokohama cofog */
   '11': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#935B3B' },
-  '議会費': { icon: 'icons/media.svg', color: '#C75746', bcolor: '#935B3B' },
+  '28': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-1': { icon: 'icons/media.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-2': { icon: 'icons/media.svg', color: '#C75746', bcolor: '#0AB971' },
